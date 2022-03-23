@@ -1,8 +1,8 @@
 import discord.py
 
-class DiscordBot():
+class DiscordBot(object):
     name = ""
-
+    client = discord.client
     # Setters
 
     # Getters
