@@ -1,0 +1,6 @@
+class DiscordBot(object):
+    pass
+
+
+
+
