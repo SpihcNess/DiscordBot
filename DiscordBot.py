@@ -1,6 +1,16 @@
+#import
+
 class DiscordBot(object):
-    pass
+    name = ""
+
+    # Setters
+
+    # Getters
 
 
+    # Constructor
+    #def __init__(name):
 
+
+    # Functions
 
