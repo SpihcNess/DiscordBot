@@ -1,4 +1,6 @@
-class DiscordBot(object):
+import discord.py
+
+class DiscordBot():
     name = ""
 
     # Setters
@@ -7,7 +9,11 @@ class DiscordBot(object):
 
 
     # Constructor
-    #def __init__(name):
+    def __init__(self, name):
 
 
     # Functions
+
+
+if __name__ == '__main__':
+    gROp = DiscordBot()
