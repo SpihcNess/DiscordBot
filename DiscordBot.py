@@ -1,5 +1,3 @@
-#import
-
 class DiscordBot(object):
     name = ""
 
